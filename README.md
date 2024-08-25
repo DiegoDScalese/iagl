@@ -1,0 +1,6 @@
+# Archivo ZIP en el Repositorio
+
+El archivo ZIP que deseas descargar se encuentra en este repositorio. Aquí están los detalles:
+
+- **Nombre del archivo:** archivo.zip
+- **Enlace de descarga:** [Descargar archivo.zip](https://github.com/usuario/repositorio/raw/main/archivo.zip)
