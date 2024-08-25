@@ -3,4 +3,4 @@
 El archivo ZIP que deseas descargar se encuentra en este repositorio. Aquí están los detalles:
 
 - **Nombre del archivo:** archivo.zip
-- **Enlace de descarga:** [Descargar archivo.zip]([[https://github.com/usuario/repositorio/raw/main/archivo.zip](https://github.com/Dieg](https://github.com/DiegoDScalese/iagl/blob/main/iagl.zip))
+- **Enlace de descarga:** [Descargar archivo.zip](https://github.com/DiegoDScalese/iagl/blob/main/iagl.zip)
